@@ -2,7 +2,7 @@
 
 
 
-<p align="left">Me chamo Heleny Flávia, mas pode me chamar apenas de Flávia.<br><br>Tenho 22 anos, sou manauara, mãe de pet e uma desenvolvedora web! <br><br>Hoje trabalho como desenvolvedora de software júnior no Sidia, onde trabalho com Angular2 e React, desenvolvimento novos sistemas web e melhorando os já existentes.</p>
+<p align="left">Me chamo Heleny Flávia, mas pode me chamar apenas de Flávia.<br><br>Tenho 22 anos, sou manauara, mãe de pet e uma desenvolvedora web! <br><br>Hoje trabalho como desenvolvedora de software na Navegam, onde trabalho com Node.js e Nest.js, desenvolvimento novos sistemas e melhorando os já existentes.</p>
 
 ###
 
