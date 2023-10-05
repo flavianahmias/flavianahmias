@@ -1,9 +1,5 @@
 <h2 align="left">Bem vindo(a)! :)</h2>
 
-
-
-<p align="left">Me chamo Heleny Flávia, mas pode me chamar apenas de Flávia.<br><br>Tenho 22 anos, sou manauara, mãe de pet e uma desenvolvedora web! <br><br>Hoje trabalho como desenvolvedora de software na Navegam, onde trabalho com Node.js e Nest.js, desenvolvimento novos sistemas e melhorando os já existentes.</p>
-
 ###
 
 <div align="left">
